@@ -17,7 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer focusing on brainstormi
 
 Here’s a project I'm particularly proud of:
 
-- **[FileChatBot](https://github.com/aniruddha2004/FileChatBot):** Upload a file (PDF, DOCX, JPEG, or PNG), then ask questions about the file's content through a chat interface to receive immediate responses based on the file's content.
+- **[File ChatBot](https://github.com/aniruddha2004/FileChatBot):** Upload a file (PDF, DOCX, JPEG, or PNG), then ask questions about the file's content through a chat interface to receive immediate responses based on the file's content.
+- **[Mac-Inspired Scientific Calculator](https://github.com/aniruddha2004/MAC_Desktop_Calculator_App):** A desktop calculator app built with Electron, supporting both basic and scientific calculations. Features include memory functions, degree/radian toggle, and full keyboard support, all in a sleek, Mac-style interface.
 
 ## 📈 Stats
 

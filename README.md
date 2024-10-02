@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Aniruddha Ghosh
 
-Welcome to my GitHub profile! I'm a passionate developer focusing on brainstorming and effective problem-solving in engineering. Below, you can find more information about me, my work, and how to contact me.
+Welcome to my GitHub profile! I'm a passionate engineer focusing on brainstorming and effective problem-solving. Below, you can find more information about me, my work, and how to contact me.
 
 ## 🚀 About Me
 

@@ -1,6 +1,7 @@
 # Hi, I'm Aniruddha Ghosh 👋
 
 **Site Reliability Engineer @ Juspay**
+
 *Focused on building reliable systems across the complete software lifecycle—from architecture and development to deployment, operations, and continuous improvement.*
 
 ---

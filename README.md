@@ -1,37 +1,120 @@
-# Hi there! 👋 I'm Aniruddha Ghosh
+# Hi, I'm Aniruddha Ghosh 👋
 
-Welcome to my GitHub profile! I'm a passionate engineer focusing on brainstorming and effective problem-solving. Below, you can find more information about me, my work, and how to get in touch with me.
+**Site Reliability Engineer @ Juspay**
+*Focused on building reliable systems across the complete software lifecycle—from architecture and development to deployment, operations, and continuous improvement.*
 
-## 🚀 About Me
+---
 
-- 🎓 **Education:** I'm currently a 3rd-year B.Tech CSE student.
-- 💼 **Experience:** I've been working as a CMS Developer at Divaks Total IT Solutions, developing WordPress websites since March 2023.
-- 🛠 **Skills:**
-  - **Languages:** Java, JavaScript, C++, C, Python, PHP  
-    > Although I may not know all the details and syntax by heart, I can work with any programming language when required.
-  - **Web Development:** WordPress, HTML, CSS, JavaScript, Node.js, Express, Firebase, Bootstrap
-  - **Databases:** MySQL, MariaDB, MongoDB
-  - **Tools:** Git, GitHub
-  
-## 🌟 Projects
+## About Me
 
-Here’s a project I'm particularly proud of:
+I'm a Site Reliability Engineer who enjoys understanding systems from first principles.
 
-- **[File ChatBot](https://github.com/aniruddha2004/FileChatBot):** Upload a file (PDF, DOCX, JPEG, or PNG), then ask questions about the file's content through a chat interface to receive immediate responses based on the file's content.
-- **[Mac-Inspired Scientific Calculator](https://github.com/aniruddha2004/MAC_Desktop_Calculator_App):** A desktop calculator app built with Electron, supporting both basic and scientific calculations. Features include memory functions, degree/radian toggle, and full keyboard support, all in a sleek, Mac-style interface.
-- **[Smart Email Organizer](https://github.com/aniruddha2004/Smart_Email_Organizer):** A Python-based email organizer with a PyQt5 GUI that categorizes, prioritizes and manages your inbox efficiently. It supports customizable rules, incremental email fetching, and automated actions for streamlined email management.
+At Juspay, I work on production cloud infrastructure running on AWS and Kubernetes, contributing across platform engineering, observability, deployment engineering, infrastructure automation, and production operations.
 
-## 📈 Stats
+Rather than focusing solely on development or operations, I'm interested in the complete lifecycle of software systems—understanding requirements, designing architectures, building solutions, deploying them, operating them in production, and continuously improving their reliability, scalability, security, and maintainability.
 
-> (GitHub stats are a cool feature, but I haven’t set them up yet!)
+Outside of work, I enjoy exploring how systems work internally, whether that's Kubernetes, Linux, networking, PKI, or distributed systems.
 
-## 🤝 Contributions
+---
 
-I haven’t contributed to open-source projects yet, but I’m always open to learning and exploring opportunities to do so!
+## Current Focus
 
-## 📫 How to Reach Me
+* Building end-to-end systems from planning to production
+* Platform Engineering and Infrastructure Automation
+* Linux internals and Operating Systems
+* Kubernetes internals
+* Networking and Distributed Systems
+* AI-assisted Engineering Workflows
 
-- **LinkedIn:** [Aniruddha Ghosh](https://www.linkedin.com/in/aniruddha-ghosh-87428824b)
-- **Email:** [aniruddhag2004@gmail.com](mailto:aniruddhag2004@gmail.com)
+---
 
-Thanks for visiting my profile! Please feel free to explore my repositories and reach out to me.
+## Featured Project
+
+### Kubernetes The Hard Way on AWS EC2
+
+A complete implementation of Kubernetes from scratch on AWS EC2 following **Kubernetes The Hard Way**.
+
+Instead of relying on a managed Kubernetes service, every core component—including etcd, API Server, Scheduler, Controller Manager, Kubelets, networking, DNS, and PKI—was provisioned manually to develop a deeper understanding of how Kubernetes works internally using mTLS.
+
+🔗 **Repository**
+
+https://github.com/aniruddha2004/kubernetes-the-hard-way-aws-ec2
+
+---
+
+## Areas of Interest
+
+* Site Reliability Engineering
+* Platform Engineering
+* Cloud Infrastructure
+* Kubernetes
+* Linux
+* Networking
+* Distributed Systems
+* Infrastructure Automation
+* Observability
+* Systems Design
+* Systems Programming
+* End-to-End Software Engineering
+
+---
+
+## Technologies
+
+### Cloud & Platform
+
+* AWS
+* Kubernetes
+* Docker
+* Helm
+
+### Infrastructure & Systems
+
+* Basic Linux
+* Platform Engineering
+* Infrastructure Automation
+* Production Operations
+
+### Networking & Security
+
+* Istio
+* Envoy Proxy
+* Load Balancing
+* DNS
+* TLS / mTLS
+* PKI
+* WAF
+
+### Observability
+
+* Prometheus
+* VictoriaMetrics
+* Grafana
+* Vector
+* Kibana
+
+### Programming
+
+* Python
+* Rust
+* Bash
+* Java
+* JavaScript
+
+---
+
+## Engineering Philosophy
+
+I enjoy engineering systems end-to-end rather than focusing on a single part of the stack. From understanding requirements and designing software to implementing applications, provisioning infrastructure, deploying services, operating them in production, and continuously improving their reliability, scalability, security, and maintainability, I'm interested in how every layer comes together to build robust systems.
+
+My goal is to develop a deep understanding of both software engineering and infrastructure engineering, enabling me to design, build, and operate complete systems from first principles.
+
+---
+
+## Connect With Me
+
+📧 **Email**
+[aniruddhag2004@gmail.com](mailto:aniruddhag2004@gmail.com)
+
+💼 **LinkedIn**
+linkedin.com/in/aniruddha-ghosh-87428824b

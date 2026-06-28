@@ -3,7 +3,8 @@
 **Site Reliability Engineer**
 
 📍 Bengaluru, India  
-📧 aniruddhag2004@gmail.com | 📞 +91 XXXXX XXXXX  
+📧 aniruddhag2004@gmail.com 
+📞 +91 89102 51626  
 **LinkedIn:** https://www.linkedin.com/in/aniruddha-ghosh-87428824b  
 **GitHub:** https://github.com/aniruddha2004
 
@@ -19,7 +20,7 @@ Site Reliability Engineer with experience operating production cloud infrastruct
 
 ## Juspay
 
-### Site Reliability Engineer
+### Site Reliability Engineer - I
 **Jun 2026 – Present**
 
 ### Site Reliability Engineering Intern
@@ -40,7 +41,7 @@ Worked on production AWS infrastructure spanning **8+ Kubernetes clusters** host
 ### Associate Consultant (Apprenticeship)
 **Jan 2025 – Apr 2025**
 
-- Worked with engineering teams on enterprise cloud and infrastructure projects.
+- Worked with engineering teams on development and maintainance of client-facing applications based on business requirements.
 - Gained exposure to enterprise software delivery, deployment workflows, and client-facing engineering practices.
 
 ---
@@ -51,8 +52,6 @@ Worked on production AWS infrastructure spanning **8+ Kubernetes clusters** host
 **Mar 2023 – Mar 2025**
 
 - Designed, developed, and maintained WordPress websites for business clients.
-- Customized themes, plugins, and CMS workflows based on client requirements.
-- Managed deployments, maintenance, and production support for client websites.
 
 ---
 
@@ -82,7 +81,7 @@ Implemented Kubernetes from scratch on AWS EC2 to develop a deep understanding o
 - Linux
 
 ### Programming
-- Python • Rust • Bash
+- Python • Javascript • Java • Rust • Bash
 
 ---
 
@@ -91,4 +90,4 @@ Implemented Kubernetes from scratch on AWS EC2 to develop a deep understanding o
 ## Adamas University
 
 **Bachelor of Technology in Computer Science and Engineering**  
-2022 – 2026 | **CGPA: 8.85 / 10**
+2022 – 2026 | **CGPA: 8.94 / 10**

@@ -72,6 +72,14 @@ My long-term goal is to become an engineer who can confidently design, build, op
 
 ---
 
+## Resume
+
+📄 **Resume**
+
+[View Resume (PDF)](https://github.com/aniruddha2004/aniruddha2004/blob/main/assets/Aniruddha_Ghosh_Resume.pdf)
+
+---
+
 ## Connect
 
 📧 **Email**

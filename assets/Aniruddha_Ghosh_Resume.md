@@ -3,8 +3,7 @@
 **Site Reliability Engineer**
 
 📍 Bengaluru, India  
-📧 aniruddhag2004@gmail.com 
-📞 +91 89102 51626  
+📧 aniruddhag2004@gmail.com | 📞 +91 89102 51626  
 **LinkedIn:** https://www.linkedin.com/in/aniruddha-ghosh-87428824b  
 **GitHub:** https://github.com/aniruddha2004
 

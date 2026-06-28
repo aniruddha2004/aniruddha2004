@@ -2,7 +2,7 @@
 
 **Site Reliability Engineer @ Juspay**
 
-Building reliable cloud infrastructure and understanding systems from first principles.
+*Focused on building reliable systems across the complete software lifecycle—from architecture and development to deployment, operations, and continuous improvement.*
 
 ---
 
